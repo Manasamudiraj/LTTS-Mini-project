@@ -1,1 +1,1 @@
-# LTTS-Mini-project
+# LTTS-Mini-project-Online Bank Mangement System
